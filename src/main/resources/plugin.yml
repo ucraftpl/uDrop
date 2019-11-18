@@ -1,0 +1,6 @@
+name: uDrop
+version: 1.0
+main: pl.ucraft.udrop.DropPlugin
+authors: [artur9010]
+description: Automatyczny drop przedmiotów do ekwipunku
+website: https://ucraft.pl
